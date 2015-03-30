@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 0b1a4a6843495f3448f15ee6d6f15825
+timeCreated: 1427554296
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back1
+    100002: Back2
+    100004: Foot_Left
+    100006: Foot_Right
+    100008: Forearm_Left
+    100010: Forearm_Right
+    100012: Head
+    100014: Hip
+    100016: Jaw
+    100018: Neck1
+    100020: Neck2
+    100022: Plane
+    100024: RenderPlatform
+    100026: Shin_Left
+    100028: Shin_Right
+    100030: Shoulder_Left
+    100032: Shoulder_Right
+    100034: Tail1
+    100036: Tail2
+    100038: Tail3
+    100040: Tail4
+    100042: Tail5
+    100044: Tail6
+    100046: Thigh_Left
+    100048: Thigh_Right
+    100050: Toes_Left
+    100052: Toes_Right
+    100054: Upperarm_Left
+    100056: Upperarm_Right
+    100058: Wing1a_Left
+    100060: Wing1a_Right
+    100062: Wing1b_Left
+    100064: Wing1b_Right
+    100066: Wing1c_Left
+    100068: Wing1c_Right
+    100070: Wing2a_Left
+    100072: Wing2a_Right
+    100074: Wing2b_Left
+    100076: Wing2b_Right
+    100078: Wing2c_Left
+    100080: Wing2c_Right
+    100082: Wing3a_Left
+    100084: Wing3a_Right
+    100086: Wing3b_Left
+    100088: Wing3b_Right
+    100090: Wing3c_Left
+    100092: Wing3c_Right
+    100094: Wing4a_Left
+    100096: Wing4a_Right
+    100098: Wing4b_Left
+    100100: Wing4b_Right
+    100102: Wing4c_Left
+    100104: Wing4c_Right
+    100106: Wyvern
+    100108: //RootNode
+    100110: WyvernArmature
+    400000: Back1
+    400002: Back2
+    400004: Foot_Left
+    400006: Foot_Right
+    400008: Forearm_Left
+    400010: Forearm_Right
+    400012: Head
+    400014: Hip
+    400016: Jaw
+    400018: Neck1
+    400020: Neck2
+    400022: Plane
+    400024: RenderPlatform
+    400026: Shin_Left
+    400028: Shin_Right
+    400030: Shoulder_Left
+    400032: Shoulder_Right
+    400034: Tail1
+    400036: Tail2
+    400038: Tail3
+    400040: Tail4
+    400042: Tail5
+    400044: Tail6
+    400046: Thigh_Left
+    400048: Thigh_Right
+    400050: Toes_Left
+    400052: Toes_Right
+    400054: Upperarm_Left
+    400056: Upperarm_Right
+    400058: Wing1a_Left
+    400060: Wing1a_Right
+    400062: Wing1b_Left
+    400064: Wing1b_Right
+    400066: Wing1c_Left
+    400068: Wing1c_Right
+    400070: Wing2a_Left
+    400072: Wing2a_Right
+    400074: Wing2b_Left
+    400076: Wing2b_Right
+    400078: Wing2c_Left
+    400080: Wing2c_Right
+    400082: Wing3a_Left
+    400084: Wing3a_Right
+    400086: Wing3b_Left
+    400088: Wing3b_Right
+    400090: Wing3c_Left
+    400092: Wing3c_Right
+    400094: Wing4a_Left
+    400096: Wing4a_Right
+    400098: Wing4b_Left
+    400100: Wing4b_Right
+    400102: Wing4c_Left
+    400104: Wing4c_Right
+    400106: Wyvern
+    400108: //RootNode
+    400110: WyvernArmature
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Wyvern
+    7400000: Default Take
+    7400002: Breathe
+    7400004: Die
+    7400006: Fly
+    7400008: Hit
+    7400010: Hover
+    7400012: Ram
+    7400014: Sting
+    9500000: //RootNode
+    13700000: Wyvern
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

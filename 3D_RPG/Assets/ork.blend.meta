@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b5e5c5053c1879840b33845f86068cfa
+timeCreated: 1427542947
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Axe
+    100004: Bow
+    100006: brust
+    100008: brust_L
+    100010: brust_R
+    100012: daumen_L
+    100014: daumen_R
+    100016: fuss_L
+    100018: fuss_R
+    100020: GreatSword
+    100022: hals
+    100024: Hammer
+    100026: hand_L
+    100028: hand_R
+    100030: Hellebard
+    100032: hips
+    100034: kopf
+    100036: mouth
+    100038: oberArm_L
+    100040: oberArm_R
+    100042: oberSchenkel_L
+    100044: oberSchenkel_R
+    100046: Ork
+    100048: //RootNode
+    100050: root
+    100052: scale
+    100054: Schaerpe
+    100056: ShoulderArmor
+    100058: skirt2_L
+    100060: skirt2_R
+    100062: skirt_L
+    100064: skirt_R
+    100066: spine
+    100068: Sword
+    100070: unterarm_L
+    100072: unterarm_R
+    100074: unterSchenkel_L
+    100076: unterSchenkel_R
+    400000: Armature
+    400002: Axe
+    400004: Bow
+    400006: brust
+    400008: brust_L
+    400010: brust_R
+    400012: daumen_L
+    400014: daumen_R
+    400016: fuss_L
+    400018: fuss_R
+    400020: GreatSword
+    400022: hals
+    400024: Hammer
+    400026: hand_L
+    400028: hand_R
+    400030: Hellebard
+    400032: hips
+    400034: kopf
+    400036: mouth
+    400038: oberArm_L
+    400040: oberArm_R
+    400042: oberSchenkel_L
+    400044: oberSchenkel_R
+    400046: Ork
+    400048: //RootNode
+    400050: root
+    400052: scale
+    400054: Schaerpe
+    400056: ShoulderArmor
+    400058: skirt2_L
+    400060: skirt2_R
+    400062: skirt_L
+    400064: skirt_R
+    400066: spine
+    400068: Sword
+    400070: unterarm_L
+    400072: unterarm_R
+    400074: unterSchenkel_L
+    400076: unterSchenkel_R
+    2300000: Bow
+    3300000: Bow
+    4300000: Axe
+    4300002: GreatSword
+    4300004: Hammer
+    4300006: Hellebard
+    4300008: Ork
+    4300010: Schaerpe
+    4300012: ShoulderArmor
+    4300014: Sword
+    4300016: Bow
+    7400000: Default Take
+    7400002: attack
+    7400004: attack2h
+    7400006: attack2h2
+    7400008: attack2h3
+    7400010: die
+    7400012: dualWield
+    7400014: dualWield2
+    7400016: dualWield3
+    7400018: dualWield4
+    7400020: flinch
+    7400022: howl
+    7400024: run
+    7400026: spell
+    7400028: walk
+    9500000: //RootNode
+    13700000: Axe
+    13700002: GreatSword
+    13700004: Hammer
+    13700006: Hellebard
+    13700008: Ork
+    13700010: Schaerpe
+    13700012: ShoulderArmor
+    13700014: Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 8ae50f424d410084c9f9262ca6f47877
+timeCreated: 1427588483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OSARE_relvad_0
+    21300002: OSARE_relvad_1
+    21300004: OSARE_relvad_2
+    21300006: OSARE_relvad_3
+    21300008: OSARE_relvad_4
+    21300010: OSARE_relvad_5
+    21300012: OSARE_relvad_6
+    21300014: OSARE_relvad_7
+    21300016: OSARE_relvad_8
+    21300018: OSARE_relvad_9
+    21300020: OSARE_relvad_10
+    21300022: OSARE_relvad_11
+    21300024: OSARE_relvad_12
+    21300026: OSARE_relvad_13
+    21300028: OSARE_relvad_14
+    21300030: OSARE_relvad_15
+    21300032: OSARE_relvad_16
+    21300034: OSARE_relvad_17
+    21300036: OSARE_relvad_18
+    21300038: OSARE_relvad_19
+    21300040: OSARE_relvad_20
+    21300042: OSARE_relvad_21
+    21300044: OSARE_relvad_22
+    21300046: OSARE_relvad_23
+    21300048: OSARE_relvad_24
+    21300050: OSARE_relvad_25
+    21300052: OSARE_relvad_26
+    21300054: OSARE_relvad_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OSARE_relvad_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 390
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 389
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 390
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 110
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 328
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 249
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 250
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 268
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 179
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 249
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 179
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 181
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 110
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 88
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 88
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 28
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OSARE_relvad_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 28
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

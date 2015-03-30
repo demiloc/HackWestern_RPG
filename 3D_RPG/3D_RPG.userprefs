@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WorldHandler.cs">
+    <Files>
+      <File FileName="Assets\ShopScript.cs" Line="184" Column="18" />
+      <File FileName="Assets\TravelScript.cs" Line="190" Column="9" />
+      <File FileName="Assets\GameHandler.cs" Line="95" Column="48" />
+      <File FileName="Assets\WorldHandler.cs" Line="33" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

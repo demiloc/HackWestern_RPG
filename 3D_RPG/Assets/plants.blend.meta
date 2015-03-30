@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 3cf2114ca11eb8b4c9c0c452280ea2d6
+timeCreated: 1427542779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bush_002
+    100002: bush_003
+    100004: Circle
+    100006: flower_002
+    100008: flower_003
+    100010: flower_004
+    100012: furn_001
+    100014: grass_002
+    100016: grass_002_brown
+    100018: grass_002_dark
+    100020: lilypad_001
+    100022: //RootNode
+    100024: reeds_001
+    100026: wheat_001
+    100028: wheat_002
+    400000: bush_002
+    400002: bush_003
+    400004: Circle
+    400006: flower_002
+    400008: flower_003
+    400010: flower_004
+    400012: furn_001
+    400014: grass_002
+    400016: grass_002_brown
+    400018: grass_002_dark
+    400020: lilypad_001
+    400022: //RootNode
+    400024: reeds_001
+    400026: wheat_001
+    400028: wheat_002
+    2300000: bush_002
+    2300002: bush_003
+    2300004: Circle
+    2300006: flower_002
+    2300008: flower_003
+    2300010: flower_004
+    2300012: furn_001
+    2300014: grass_002
+    2300016: grass_002_brown
+    2300018: grass_002_dark
+    2300020: lilypad_001
+    2300022: reeds_001
+    2300024: wheat_001
+    2300026: wheat_002
+    3300000: bush_002
+    3300002: bush_003
+    3300004: Circle
+    3300006: flower_002
+    3300008: flower_003
+    3300010: flower_004
+    3300012: furn_001
+    3300014: grass_002
+    3300016: grass_002_brown
+    3300018: grass_002_dark
+    3300020: lilypad_001
+    3300022: reeds_001
+    3300024: wheat_001
+    3300026: wheat_002
+    4300000: grass_002_brown
+    4300002: grass_002_dark
+    4300004: grass_002
+    4300006: wheat_001
+    4300008: wheat_002
+    4300010: Circle
+    4300012: reeds_001
+    4300014: flower_002
+    4300016: bush_002
+    4300018: bush_003
+    4300020: flower_004
+    4300022: flower_003
+    4300024: lilypad_001
+    4300026: furn_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
